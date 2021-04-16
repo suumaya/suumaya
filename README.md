@@ -8,5 +8,5 @@
 
 - 🔭  I’m a Cyber Security Graduate Student "Last Year" in KSU :)
 - 🌱  I’m currently working on Q&A platform to detect phishing mails.
-- 👯  I’m looking to collaborate on open source projects, welcome ll ;)
+- 👯  I’m looking to collaborate on open source projects, welcome all ;)
 - 📫  You can reach me any time: Sumayafor@gmail.com
