@@ -6,7 +6,6 @@
 
 
 
-- 🔭  I’m a Cyber Security Graduate Student "Last Year" :)
-- 🌱  I’m currently working on Q&A platform to detect phishing mails.
-- 👯  I’m looking to collaborate on open source projects
-- 📫  You can reach me any time: Sumayafor@gmail.com, welcome all ;)
+- I’m a Cyber Security Graduate Student 🔭I
+- Currently working on Q&A platform to detect phishing mails 📫  
+-  I’m looking to collaborate on open source projects and you can reach me any time: Sumayafor@gmail.com 👯 
