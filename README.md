@@ -14,6 +14,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&hide=contribs,prs)
  -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&count_private=true) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=tokyonight)
