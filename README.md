@@ -12,6 +12,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suumaya&repo=github-readme-stats)](https://github.com/suumaya/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&hide=contribs,prs)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&hide=contribs,prs)
+ -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&count_private=true)
