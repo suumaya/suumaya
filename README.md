@@ -20,4 +20,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=tokyonight)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya)](https://github.com/suumaya/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight&langs_count=8)
