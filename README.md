@@ -36,7 +36,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📈 my github stats<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=tokyonight)
    <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya&layout=compact&langs_count=14&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya&layout=compact&langs_count=14&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight) <br>
    <img align="center" alt="GIF" src="https://github.com/suumaya/assets/blob/master/code.gif" width="500" height="320" />
 
 
