@@ -16,8 +16,7 @@ hi, i'm [Sumaya](https://github.com/suumaya), a passionate self-taught full stac
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/
-  /blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/suumaya/assets/blob/master/code.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](Sumayafor@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
