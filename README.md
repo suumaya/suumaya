@@ -16,7 +16,6 @@ hi, i'm [Sumaya](https://github.com/suumaya), a passionate self-taught full stac
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/suumaya/assets/blob/master/code.gif" width="500" height="320" />
   <br>
 - 💼 any freelance work? do reach, [email](Sumayafor@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -36,10 +35,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 📈 my github stats<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=tokyonight)
-</br>
-  <br>
+   <br>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya&layout=compact&langs_count=14&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
-</br>
+   <img align="right" alt="GIF" src="https://github.com/suumaya/assets/blob/master/code.gif" width="500" height="320" />
+
 
 
 <!-- - I’m a Cyber Security Graduate Student 🔭I
