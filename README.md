@@ -21,8 +21,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 - 💬 ask me about anything, I am happy to help;
  
-<br>
-📈 my github stats
+<br><br>
+📈 my github stats:
 <br><br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=tokyonight)
