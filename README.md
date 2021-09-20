@@ -16,12 +16,7 @@ hi, I'm [Sumaya](https://github.com/suumaya), a passionate self-taught full stac
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <br>
--  any freelance work? do reach,my email: Sumayafor@gmail.com :)
-<br>
-- ask me about anything, I am happy to help!
-
-<br>
+  <br />
 
  
 [![Sumaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
