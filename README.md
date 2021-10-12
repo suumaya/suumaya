@@ -12,6 +12,6 @@ hi, I'm [Sumaya](https://www.linkedin.com/in/tamimis/), a passionate software en
  
    <br />  
  
-[![Sumaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Sumaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
  
    
