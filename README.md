@@ -15,6 +15,6 @@ hi, I'm [Sumaya](https://github.com/suumaya), a passionate software engineer fro
   <br />
 
  
-[![Sumaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Sumaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suumaya&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
    <br>  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suumaya&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
