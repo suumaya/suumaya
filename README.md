@@ -1,9 +1,7 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/ragol">
-  <img align="left" alt="twitter" width="22px" src="https://github.com/suumaya/assets/blob/master/twitter.svg" />
-</a>
+ 
 <a href="https://www.linkedin.com/in/tamimis/">
   <img align="left" alt="LinkedIN" width="22px" src="https://github.com/suumaya/assets/blob/master/linkedin.svg" />
 </a>
